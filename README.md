@@ -1,6 +1,6 @@
 # sparkjava-war-example
 Build war with maven and sparkjava framework
-
+This change is from feature1
 Steps:
 
 1. Download a fresh [Tomcat 8 distribution](https://tomcat.apache.org/download-80.cgi)
